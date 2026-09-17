@@ -246,4 +246,4 @@ This repository serves as the official landing page for PowerArchiver. The softw
 **Get the most recent version of PowerArchiver today!**
 
 ---
-**Last updated:** 2026-09-17 19:26:56 UTC
+**Last updated:** 2026-09-17 22:33:41 UTC
